@@ -84,6 +84,10 @@ Step by step, the local-app option and the first launch: [Installation](docs/INS
 
 ⭐ If Vedetta names your devices right, a star helps others find it. *Watch → Custom → Releases* tells you when a new version comes out.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Vedetta/)
+
 ## ☕ Support the project
 
 Vedetta is free and open source, and it stays that way. If it saved you time, you can help to keep it going:
